@@ -1,0 +1,17 @@
+.nav_lists{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding: 1rem;
+    border: 3px black;
+}
+li:hover{
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+}
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
